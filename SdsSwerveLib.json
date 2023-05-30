@@ -6,7 +6,7 @@
   "mavenUrls": [
     "https://jitpack.io"
   ],
-  "jsonUrl": "https://raw.githubusercontent.com/Yoda-Flash/swerve-lib/blob/develop/SdsSwerveLib.json",
+  "jsonUrl": "https://raw.githubusercontent.com/Yoda-Flash/swerve-lib/develop/SdsSwerveLib.json",
   "javaDependencies": [
     {
       "groupId": "com.github.Yoda-Flash",
